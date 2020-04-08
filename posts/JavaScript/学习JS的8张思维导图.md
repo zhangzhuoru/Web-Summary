@@ -1,4 +1,4 @@
-> 站点：[前端开发文档](https://whjin.github.io/frontend-dev-doc/)
+> 站点：[前端开发文档](../../)
 
 # 学习Javascript的8张思维导图 #
 
